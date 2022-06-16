@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.0e71c190.css",
+    "main.js": "/memory-card-game/static/js/main.fb0fd64d.js",
+    "static/media/thousandSunny": "/memory-card-game/static/media/thousandSunny.f4c804f9bd9c95c58f9e",
+    "static/media/sanji.png": "/memory-card-game/static/media/sanji.3255df1ff0e821bf6e99.png",
+    "static/media/luffy.png": "/memory-card-game/static/media/luffy.31dca2cb6da09464d758.png",
+    "static/media/chopper.png": "/memory-card-game/static/media/chopper.2dcf8522c174e0ed85a1.png",
+    "static/media/zoro.png": "/memory-card-game/static/media/zoro.2e66f5cf879b66357d2a.png",
+    "static/media/nami.png": "/memory-card-game/static/media/nami.10872ccc5cecb66aeefe.png",
+    "static/media/usopp.png": "/memory-card-game/static/media/usopp.90d44e9648b8fbbba9ca.png",
+    "static/media/franky.png": "/memory-card-game/static/media/franky.c5a20961b928362d7f48.png",
+    "static/media/brook.png": "/memory-card-game/static/media/brook.54e71231e0539a02a2e6.png",
+    "static/media/robin.png": "/memory-card-game/static/media/robin.5bd78b6343ab88fc808a.png",
+    "index.html": "/memory-card-game/index.html",
+    "main.0e71c190.css.map": "/memory-card-game/static/css/main.0e71c190.css.map",
+    "main.fb0fd64d.js.map": "/memory-card-game/static/js/main.fb0fd64d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e71c190.css",
+    "static/js/main.fb0fd64d.js"
+  ]
+}
