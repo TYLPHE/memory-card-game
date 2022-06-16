@@ -74,7 +74,7 @@ function App() {
     return randArr
   }
 
-  async function scoreLogic(e) {
+  function scoreLogic(e) {
     const match = selected.filter(match => match === e.target.src);
     if (match.length === 0) {
       setSelected(state => [...state, e.target.src]);
