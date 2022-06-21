@@ -17,7 +17,7 @@ Memory Card Game the first assignment that requires function components. It a st
 ## Challenges
 ### Handling the shuffle 
 The way I handled my randomization was to assign each image a key from 0 - 8. Next, I created a randomizer that pushed random numbers into an array:
-```
+```javascript
 function randomizer() {
   const randArr = [];
   while (randArr.length < 9) {
@@ -32,7 +32,7 @@ function randomizer() {
 ```
 
 Finally, I matched the image key with the randomized array into a new array with all the images to display on the web page:
-```
+```javascript
 const arr = [];
 const random = randomizer();
 for (let i = 0; i < crewArr.length; i += 1) {
